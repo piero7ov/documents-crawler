@@ -30,9 +30,10 @@ documents-crawler/
 ### Para el crawler (Python)
 - **Python 3**
 - Paquetes:
+
   ```bash
   pip install requests lxml
-````
+  ```
 
 ### Para el panel (PHP)
 
